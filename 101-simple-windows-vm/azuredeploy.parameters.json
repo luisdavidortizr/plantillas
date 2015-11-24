@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "ldorstore1"
+      "value": "ldor"
     },
     "adminUsername": {
       "value": "admin123"
